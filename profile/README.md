@@ -21,11 +21,13 @@ Here's what we're working towards:
 
 This is where we'll share code, workshop materials, experiments and projects developed by our community.
 
-As we build things together, you'll find them here.
+Visit our [society repository](https://github.com/portsmouth-ai-society/society) to explore our [roadmap](https://github.com/portsmouth-ai-society/society/blob/main/ROADMAP.md), public plans and community suggestions.
 
 ## Get involved
 
 You don't need to be an expert or even know how to code. Whether you want to learn, contribute to a project, share an idea or simply meet others interested in AI, you're welcome.
+
+Have an idea for a workshop, event, project or improvement? [Share your suggestion](https://github.com/portsmouth-ai-society/society/issues/new?template=suggestion.md).
 
 ## Find us
 
