@@ -29,6 +29,8 @@ You don't need to be an expert or even know how to code. Whether you want to lea
 
 Have an idea for a workshop, event, project or improvement? [Share your suggestion](https://github.com/portsmouth-ai-society/society/issues/new?template=suggestion.md).
 
+Please take a moment to read our [Code of Conduct](https://github.com/portsmouth-ai-society/.github/blob/main/CODE_OF_CONDUCT.md), which applies to society activities and online spaces.
+
 ## Find us
 
 - [Portsmouth Students' Union](https://upsu.net/groups/8F8DP/ai-society)
